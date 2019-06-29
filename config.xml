@@ -4,6 +4,7 @@
     <description>
         A Sample web requeste for Aticca.
     </description>
+     <access origin="*"/>
     <author email="elciorodrigo@gmail.com" href="http://cordova.io">
         Elcio Rodrigo
     </author>
