@@ -25,5 +25,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
 
-    <icon src="livethechange.png" />
+    <icon src="aticca.png" />
 </widget>
