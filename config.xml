@@ -25,5 +25,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
 
-    <icon src="aticca.png" />
+    <icon src="aticca.jpeg" />
 </widget>
