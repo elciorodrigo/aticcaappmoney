@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.aticca" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Attica</name>
+    <name>Attica Consignado</name>
     <description>
         A Sample web request for Aticca.
     </description>
@@ -26,5 +26,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
 
-    <icon src="app.png" />
+    <icon src="app.png" density="xxxhdpi" />
 </widget>
